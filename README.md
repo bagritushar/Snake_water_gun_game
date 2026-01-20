@@ -56,7 +56,7 @@ python main.py
 
 ## 👤 Author
 
-**Tushar Arya**
+**Tushar Bagri**
 Beginner Python Developer 🚀
 Learning Python & working towards AI/ML Engineering.
 
